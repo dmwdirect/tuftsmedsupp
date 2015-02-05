@@ -1,0 +1,1 @@
+<p class="legal">* If you enroll within six months of turning 65, you may qualify for a discounted premium. The discount off the base rate will be 15% for the first year of coverage, 10% for the second year and 5% for the third year. Contact Tufts Health Plan Medicare Preferred for more information.</p>
