@@ -59,7 +59,7 @@
   <h2><!-- InstanceBeginEditable name="Headline" -->More information is just a call away<!-- InstanceEndEditable --></h2>
 <!-- InstanceBeginEditable name="Content" -->
 <h3>Call 1-877-442-3146 (TTY 1-888-899-8977)</h3>
-<p><b>To request your free 2015 enrollment kit, call our Medicare Specialists today!</b> We&rsquo;ll guide you through the process, discuss coverage options and help you understand why more than &lt;100,000&gt; Massachusetts residents with Medicare turn to Tufts Health Plan Medicare Preferred.</p>
+<p><b>To request your free 2015 enrollment kit, call our Medicare Specialists today!</b> We&rsquo;ll guide you through the process, discuss coverage options and help you understand why more than 100,000 Massachusetts residents with Medicare turn to Tufts Health Plan Medicare Preferred.</p>
 <p>Specialists are available Monday – Friday, 8:00 a.m. – 8:00 p.m. (7 days a week from October 1 &ndash; February 14). After hours and on holidays, please leave a message and we&rsquo;ll return your call on the next business day.</p>
 <!-- InstanceEndEditable -->
 <div class="bottom_components"><!-- InstanceBeginEditable name="Bottom Callouts" -->
