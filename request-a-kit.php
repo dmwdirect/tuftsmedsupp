@@ -56,7 +56,7 @@
   <?php require_once('inc/box_plancoverage2015.php'); ?>
 <?php require_once('inc/box_allplandocs.php'); ?>  <!-- InstanceEndEditable --></div>
 <div class="left2col pull-left">
-  <h2><!-- InstanceBeginEditable name="Headline" -->More information is just a click away<!-- InstanceEndEditable --></h2>
+  <h2><!-- InstanceBeginEditable name="Headline" -->More information is just a call away<!-- InstanceEndEditable --></h2>
 <!-- InstanceBeginEditable name="Content" -->
 <h3>Call 1-877-442-3146 (TTY 1-888-899-8977</h3>
 <p>To request your free 2015 enrollment kit, call our Medicare Specialists today! We&rsquo;ll guide you through the process, discuss coverage options and help you understand why more than &lt;100,000&gt; Massachusetts residents with Medicare turn to Tufts Health Plan Medicare Preferred.</p>
