@@ -58,16 +58,9 @@
 <div class="left2col pull-left">
   <h2><!-- InstanceBeginEditable name="Headline" -->More information is just a click away<!-- InstanceEndEditable --></h2>
 <!-- InstanceBeginEditable name="Content" -->
-<h3>Complete this form</h3>
-<p>Request a free 2015 enrollment kit to be mailed to you and compare your options today! </p>
-<p>All fields with asterisks are required.</p>
-<iframe src="https://requests.tuftsmedicarepreferred.org/go/TUFTSMP/medsuppkitrequest2015" width="100%" height="550px" style="border:none"></iframe>
-
-<div class="rounded litebluebox">
-  <h4>Or call toll-free:<br>
-  <span class="num">1-877-442-3146</span> / TTY 1-888-899-8977</h4>
-<p>Monday - Friday, 8:00 a.m. - 8:00 p.m. (7 days a week from October 1 - February 14). After hours and on holidays, please leave a message and we’ll get back to you the next business day.</p>
-</div>
+<h3>Call 1-877-442-3146 (TTY 1-888-899-8977</h3>
+<p>To request your free 2015 enrollment kit, call our Medicare Specialists today! We&rsquo;ll guide you through the process, discuss coverage options and help you understand why more than &lt;100,000&gt; Massachusetts residents with Medicare turn to Tufts Health Plan Medicare Preferred.</p>
+<p>Specialists are available Monday – Friday, 8:00 a.m. – 8:00 p.m. (From Oct. 1 – Feb. 14 call 7 days a week, 8:00 a.m. – 8:00 p.m.) After hours and on holidays, please leave a message, and we’ll return your call on the next business day.</p>
 <!-- InstanceEndEditable -->
 <div class="bottom_components"><!-- InstanceBeginEditable name="Bottom Callouts" -->
 <!-- InstanceEndEditable --></div>
