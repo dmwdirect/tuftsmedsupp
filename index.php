@@ -69,6 +69,8 @@ var fscr = document.getElementsByTagName('script')[0]; fscr.parentNode.insertBef
 <div class="container">
 <div class="pull-right">
 <div class="right1col">
+<?php require_once('inc/box_hmo.php'); ?>
+
 <div class="home_buttons">
 <p><a href="pdf/THPMP_Provider_BRO_2014.pdf" class="btn btn-turq" target="_blank">Learn About Medicare</a></p>
 <p><a href="pdf/Tufts_JoiningAfter65.pdf" target="_blank" class="btn btn-turq external">Joining Medicare After Age 65</a></p>
@@ -93,7 +95,7 @@ var fscr = document.getElementsByTagName('script')[0]; fscr.parentNode.insertBef
   <li>Comprehensive coverage to fill Medicare&rsquo;s gaps</li>
   <li>Covers hospital stays, doctor visits, outpatient services and more </li>
   <li>Includes valuable wellness extras</li>
-  <li>Keep your doctors — or see any doctors that accept Medicare with NO referrals </li>
+  <li>Keep your doctors — or see any doctors who accept Medicare with NO referrals </li>
   <li>Nationwide coverage everywhere Medicare is accepted </li>
   <li>Choice of plans with competitive monthly rates —<br>
 $104.76 for Core and $194 for our One plan, a NEW lower premium!</li>
