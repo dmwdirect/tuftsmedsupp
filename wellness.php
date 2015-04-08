@@ -65,7 +65,7 @@
 <h3>Healthy Living Essentials — benefits and extra discounts that will help you lead a healthy lifestyle.</h3>
 <h4>With Tufts Medicare Preferred Supplement One, you get:</h4>
 <ul class="newlist">
-  <li class="new"><b>$150 annual reimbursement</b> towards program fees for Weight Watchers&reg;, Jenny Craig&reg;, Nutrisystem&reg; or hospital-based weight management programs</li>
+  <li class="new"><b>$150 annual reimbursement</b> toward program fees for Weight Watchers&reg;, Jenny Craig&reg;, Nutrisystem&reg; or hospital-based weight management programs</li>
   <li class="new"><b>$100 reimbursement for eyewear</b> or contact lenses every calendar year </li>
   <li class="new"><b>One routine eye exam</b> every calendar year </li>
   </ul>

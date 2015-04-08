@@ -61,7 +61,7 @@
 <!-- InstanceBeginEditable name="Content" -->
 <div class="inset pull-right">
 <p>More than <span><br>
-  100,000</span> <br>
+  100,000</span><br>
   Tufts Health Plan Medicare Preferred members </p>
 </div>
 <p>Since 1979, Tufts Health Plan has been committed to providing a higher standard of health care coverage and to improving the quality of care for every member.</p>
@@ -72,7 +72,7 @@
   <li>Distinguished for providing an outstanding member experience and access to quality care</li>
   <li>A broad array of health care coverage options to individuals and employer groups</li>
   <li>Traditional HMO and PPO plans and Medicare Supplement (Medigap) and Medicare Advantage plans </li>
-  <li>A core commitment to offering plan members innovative tools and resources that engage them in enhancing their health and well-being and managing health care costs</li>
+  <li>A core commitment to offering plan members innovative tools and resources that engages them in enhancing their health and well-being and managing health care costs</li>
   <li>A leader in advancing public policy discussions on prevention and wellness, affordability and providing easy access to health care</li>
 </ul>
 <h3>It's your health. Expect more.</h3>

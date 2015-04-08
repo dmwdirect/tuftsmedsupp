@@ -67,6 +67,7 @@
 <div class="right1col"><!-- InstanceBeginEditable name="Shadow Callouts" -->
   <?php require_once('inc/box_requestakit.php'); ?>
   <?php require_once('inc/box_enroll.php'); ?>
+    <?php require_once('inc/box_hmo.php'); ?>
 <!-- InstanceEndEditable -->
   <div class="clearfix"></div>
   <!-- InstanceBeginEditable name="Secondary Callouts" -->
@@ -75,14 +76,14 @@
   <!-- InstanceEndEditable --></div>
 <div class="left2col pull-left">
   <h2><!-- InstanceBeginEditable name="Headline" -->Tufts Medicare Preferred Supplement One Plan<br>
-<span>Monthly premium: $194 <img src="img/newlowerprice.png" alt=""/></span><!-- InstanceEndEditable --></h2>
+<span>Monthly premium: $194<img src="img/newlowerprice.png" alt=""/></span><!-- InstanceEndEditable --></h2>
 <!-- InstanceBeginEditable name="Content" -->
     <h3>With this plan you’ll have no out-of-pocket costs for Medicare-covered services &ndash; along with no referrals, networks or paperwork. You can keep the same doctors and are still in the Medicare program.</h3>
     <p>Tufts Medicare Preferred Supplement One plan provides all the benefits of our Core plan &ndash; PLUS 100% payment of Part A (hospital) and Part B (medical) deductibles, skilled nursing facility copays and more. It does not include prescription drug benefits.</p>
         <h4>Our Tufts Medicare Preferred Supplement One plan includes:        </h4>
         <ul>
           <li>Freedom and control over your own health care</li>
-          <li>See any doctor that accepts Medicare</li>
+          <li>See any doctor who accepts Medicare</li>
           <li>Plan coverage that travels with you anywhere in the U.S.</li>
           <li>$150 per year reimbursement toward fitness club membership, instructional fitness classes and/or nutritional counseling</li>
           <li>No claims forms to file in most cases</li>

@@ -67,11 +67,12 @@
 <div class="right1col"><!-- InstanceBeginEditable name="Shadow Callouts" -->
   <?php require_once('inc/box_requestakit.php'); ?>
   <?php require_once('inc/box_enroll.php'); ?>
+    <?php require_once('inc/box_hmo.php'); ?>
+
 <!-- InstanceEndEditable -->
   <div class="clearfix"></div>
   <!-- InstanceBeginEditable name="Secondary Callouts" -->
   <?php require_once('inc/box_newtomedicare.php'); ?>
-  <?php require_once('inc/box_allplandocs.php'); ?>
   <!-- InstanceEndEditable --></div>
 <div class="left2col pull-left">
   <h2><!-- InstanceBeginEditable name="Headline" -->Common Questions <br>
@@ -89,7 +90,7 @@
         <p>Although both are good options for people with Medicare, there are very big differences between these two types of insurance.
         </p>
         <ul>
-<li><b>A Medicare Supplement plan — or Medigap policy —</b> is private insurance you can purchase to cover some or most of your out-of-pocket expenses accrued through traditional Medicare. These may include Part B costs, like the 20% you'd otherwise pay for physician visits and other outpatient services, the Part A hospital deductible (currently $1,184 for each hospital benefit period) and the Part B deductible. With a Medigap policy, you're free to use any doctors and hospitals that accept Medicare and you do not need referrals from a primary care doctor.</li>
+<li><b>A Medicare Supplement plan — or Medigap policy —</b> is private insurance you can purchase to cover some or most of your out-of-pocket expenses accrued through traditional Medicare. These may include Part B costs, like the 20% you'd otherwise pay for physician visits and other outpatient services, the Part A hospital deductible (currently $1,260 for each hospital benefit period) and the Part B deductible. With a Medigap policy, you're free to use any doctors and hospitals that accept Medicare and you do not need referrals from a primary care doctor.</li>
 <li><b>Medicare Advantage plans — most often HMOs and PPOs — </b>are offered through private health plans and are an alternative to traditional Medicare. Every plan must cover all the same benefits as traditional Medicare and many plans offer extra benefits such as vision, fitness and prescription coverage. Most plans require you to go to doctors and other providers within their service network (or with a PPO, pay higher copays for going out of network). Referrals from a primary care doctor are required in most cases.</li></ul>
 </div>
         <!-- Question 3 -->
@@ -211,15 +212,14 @@
             <td colspan="2" align="center" class="litegreen"><p><b>$150 annual wellness allowance</b> with both plans. </p>
               <p>Plus with Supplement One, you get:<br>
                 <b>$150 weight management </b>benefit,<b> <img src="img/new.png" alt=""/></b><br>
-<b>$100 eyewear </b>reimbursement and <a href="wellness.php">more</a><b> <img src="img/new.png" alt=""/></b></p></td>
+                <b>$100 eyewear </b>reimbursement and <a href="wellness.php">more</a><b> <img src="img/new.png" alt=""/></b></p></td>
           </tr>
         </table>
     <?php require_once('inc/footnote1.php'); ?>
 <!-- InstanceEndEditable -->
 <div class="bottom_components"><!-- InstanceBeginEditable name="Bottom Callouts" -->
-<?php require_once('inc/box_medsup.php'); ?>
-<?php require_once('inc/box_65bday.php'); ?>
-<!-- InstanceEndEditable --></div>
+<?php require_once('inc/box_allplandocs.php'); ?>
+    <?php require_once('inc/box_65bday.php'); ?><!-- InstanceEndEditable --></div>
 </div>
 
 </div>

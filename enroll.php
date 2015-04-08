@@ -51,6 +51,7 @@
 <div class="right1col"><!-- InstanceBeginEditable name="Shadow Callouts" -->
   <?php require_once('inc/box_requestakit.php'); ?>
   <?php require_once('inc/box_learn.php'); ?>
+    <?php require_once('inc/box_hmo.php'); ?>
 <!-- InstanceEndEditable -->
   <div class="clearfix"></div>
   <!-- InstanceBeginEditable name="Secondary Callouts" -->
@@ -86,7 +87,7 @@ Watertown, MA 02472-1508</p>
 <li><img src="img/icon_phone.jpg" alt="mail" width="113" height="104">
   <h3>By Phone</h3>
   <div id="stcpDiv">
-    <p>Our representatives are happy to take your application over the phone. Just call seven days a week, 8:00 a.m. - 8:00 p.m.</p>
+    <p>Our representatives are happy to take your application over the phone. You can call Monday - Friday from 8:00 a.m. - 8:00 p.m.</p>
     <p><b>Call 1-877-442-3146  (TTY: 1-888-899-8977)</b><br>Monday - Friday, 8:00 a.m. - 8:00 p.m. (7 days a week from October 1 - February 14). After hours and on holidays, please leave a message and we’ll get back to you the next business day.</p>
   </div>
   <p>&nbsp;</p>

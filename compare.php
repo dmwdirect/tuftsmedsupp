@@ -67,11 +67,13 @@
 <div class="right1col"><!-- InstanceBeginEditable name="Shadow Callouts" -->
   <?php require_once('inc/box_requestakit.php'); ?>
   <?php require_once('inc/box_enroll.php'); ?>
+    <?php require_once('inc/box_hmo.php'); ?>
 <!-- InstanceEndEditable -->
   <div class="clearfix"></div>
   <!-- InstanceBeginEditable name="Secondary Callouts" -->
   <?php require_once('inc/box_newtomedicare.php'); ?>
-  <?php require_once('inc/box_allplandocs.php'); ?>
+
+
   <!-- InstanceEndEditable --></div>
 <div class="left2col pull-left">
   <h2><!-- InstanceBeginEditable name="Headline" -->Take a closer look at Tufts Medicare Preferred Supplement options.<!-- InstanceEndEditable --></h2>
@@ -144,7 +146,7 @@
     <td colspan="2" align="center" class="litegreen"><p><b>$150 annual wellness allowance</b> with both plans. </p>
       <p>Plus with Supplement One, you get:<br>
         <b>$150 weight management </b>benefit,<b> <img src="img/new.png" alt=""/></b><br>
-<b>$100 eyewear </b>reimbursement and <a href="wellness.php">more</a><b> <img src="img/new.png" alt=""/></b></p></td>
+<b>$100 eyewear </b>reimbursement and <a href="wellness.php">more</a><b><img src="img/new.png" alt=""/></b></p></td>
   </tr>
   </table>
 <p><b>PLEASE NOTE that Medigap plans do not include prescription drug coverage.</b></p>
@@ -159,9 +161,8 @@
 <?php require_once('inc/footnote1.php'); ?>
 <!-- InstanceEndEditable -->
 <div class="bottom_components"><!-- InstanceBeginEditable name="Bottom Callouts" -->
-<?php require_once('inc/box_medsup.php'); ?>
-<?php require_once('inc/box_65bday.php'); ?>
-<!-- InstanceEndEditable --></div>
+  <?php require_once('inc/box_allplandocs.php'); ?>
+    <?php require_once('inc/box_65bday.php'); ?><!-- InstanceEndEditable --></div>
 </div>
 
 </div>

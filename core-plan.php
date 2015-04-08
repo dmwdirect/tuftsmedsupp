@@ -67,6 +67,7 @@
 <div class="right1col"><!-- InstanceBeginEditable name="Shadow Callouts" -->
   <?php require_once('inc/box_requestakit.php'); ?>
   <?php require_once('inc/box_enroll.php'); ?>
+  <?php require_once('inc/box_hmo.php'); ?>
 <!-- InstanceEndEditable -->
   <div class="clearfix"></div>
   <!-- InstanceBeginEditable name="Secondary Callouts" -->
@@ -75,12 +76,11 @@
   <!-- InstanceEndEditable --></div>
 <div class="left2col pull-left">
   <h2><!-- InstanceBeginEditable name="Headline" -->Tufts Medicare Preferred Supplement Core Plan<br>
-   <span>Monthly premium: $104.76</span>
-  <!-- InstanceEndEditable --></h2>
+   <span>Monthly premium: $104.76</span><!-- InstanceEndEditable --></h2>
 <!-- InstanceBeginEditable name="Content" -->
     <h3>This plan helps cover “gaps” in Original Medicare, such as the <br>
     20% Part B coinsurance. There are no referrals or networks. You can keep the same doctors and are still in the Medicare program.</h3>
-    <p>Our Tufts Medicare Preferred Supplement Core plan &ndash; also known as a "Medigap" plan &ndash; pays daily hospital copays and the 20% coinsurance for medical services not covered by Medicare. It does not include prescription drug benefits. Unlike our Supplement One plan which also covers deductibles, if you choose the Core plan you are responsible for paying Part A (hospital) and Part B (medical) deductibles.</p>
+    <p>Our Tufts Medicare Preferred Supplement Core plan &ndash; also known as a "Medigap" plan &ndash; pays daily hospital copays and the 20% coinsurance for medical services not covered by Medicare. It does not include prescription drug benefits. Unlike our Supplement One plan, which also covers deductibles, if you choose the Core plan you are responsible for paying Part A (hospital) and Part B (medical) deductibles.</p>
   <h4>Our Tufts Medicare Preferred Supplement Core plan includes:</h4>
     <ul>
       <li>Freedom and control over your own health care</li>
