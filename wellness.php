@@ -112,7 +112,7 @@ This worksheet will help you prepare for your next doctor office visit. Click to
 How To Keep Your Bones Healthy</a><!-- InstanceEndEditable --></h4>
 <p><!-- InstanceBeginEditable name="Article Description" -->
 Osteoporosis is a disease that weakens bones so they break more easily, most often the hip, spine, and wrist.<!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="Article Link" --><a href="http://www.tuftsmedicarepreferred.org/how-keep-your-bones-healthy" target="_blank">view article</a><!-- InstanceEndEditable --></p>
-<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --></li></ul><p><a href="http://www.tuftsmedicarepreferred.org/member-resources-stay-healthy" target="_blank">View all articles</a></p>
+<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --></li></ul><p><a href="http://www.tuftsmedicarepreferred.org/healthy-living" target="_blank">View all articles</a></p>
 <div class="external_message" align="center">By clicking on the links above, you will be leaving the Tufts Health Plan Medicare Preferred Website.</div>
 </div>
 <div class="bottom_components">
