@@ -152,6 +152,7 @@ ul.dropdown-menu li a:hover {color:#FFF !important;}
   padding: 10px;
   height: 165px;
 }
+
 .shadow_content {width:250px; padding: 0 5px;}
 .shadow h3 {font-size:30px; line-height: 30px; margin:0px 0 5px 0;}
 .lrn h3 {color:#74bd30 !important; }
@@ -163,6 +164,10 @@ ul.dropdown-menu li a:hover {color:#FFF !important;}
 .enroll {background:url(../img/bg_enroll.jpg) no-repeat top left;}
 .requestakit {background:url(../img/bg_requestakit.jpg) no-repeat top left;}
 .greybox {background: #e8e8e9; width: 260px;}
+
+/* New HMO Box */
+.hmo h3 {color:#74bd30 !important; font-size:24px; line-height: 24px; margin:0px 0 5px 0; }
+.hmo {background:url(../img/bg_hmo.jpg) no-repeat top left;}
 
 /* Inset */
 .inset {width: 200px; border-left: 1px solid #35a8da; color:#0067a6; background:url(../img/inset_arrowtip.gif) no-repeat top left; padding: 0px 0 5px 20px ; margin: 10px 0 10px 15px;}
