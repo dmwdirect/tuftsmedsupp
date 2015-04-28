@@ -17,7 +17,7 @@
     </li>
     <li><a href="service.php">service</a></li>
     <li><a href="wellness.php">wellness</a></li>
-    <li><a href="request-a-kit.php">request a kit</a></li>
+    <!--<li><a href="request-a-kit.php">request a kit</a></li>-->
     <li class="liteorange"><a href="enroll.php">enroll</a></li>
     </ul>
     </div>
