@@ -140,8 +140,8 @@ Osteoporosis is a disease that weakens bones so they break more easily, most oft
 </div>
 <div class="component litegreybox rounded tips">
 <h3>TIP OF THE MONTh</h3>
-<h4><!-- InstanceBeginEditable name="Tip Headline" -->Exercise your mind.<!-- InstanceEndEditable --></h4>
-<p><!-- InstanceBeginEditable name="Tip Content" -->We all know exercise is good for your body. But did you know that your brain needs a workout, too? Studies show that mental activity helps to keep the mind healthy. So turn off the electronics, and turn over a new leaf &ndash; curl up with a good book. Do a crossword puzzle, Sudoku or word jumble. Even learn a new language, and then travel to put your newfound skills to work.
+<h4><!-- InstanceBeginEditable name="Tip Headline" -->Snack right, feel right.<!-- InstanceEndEditable --></h4>
+<p><!-- InstanceBeginEditable name="Tip Content" -->Hungry between meals? Put down the junk food, pick up the nutrition powerhouses — colorful fruits and vegetables. They’re low in calories; high in vitamins, minerals and fiber; and great for your health. Experts recommend you have at least five servings a day. So every morning, wash a bunch of fresh fruits and veggies and have them ready to munch throughout the day.
 <!-- InstanceEndEditable --></p></div></div>
 </div>
 
